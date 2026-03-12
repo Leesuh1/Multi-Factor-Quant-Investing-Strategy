@@ -1,7 +1,6 @@
 Open in Colab
 
-# Quant
-
+# 결과물 예시
 
 # 📈 AI 기반 투자 포트폴리오 분석
 
@@ -96,17 +95,6 @@ Open in Colab
 
 * 상위 N개 종목 투자
 * 점수 기반 가중 포트폴리오
-
----
-
-# 📈 주요 결과
-
-
-예시
-
-```
-images/portfolio_return.png
-```
 
 ---
 
